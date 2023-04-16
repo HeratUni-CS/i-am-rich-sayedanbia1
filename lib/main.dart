@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: Scaffold(
-      backgroundColor: Colors.white30,
+      backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.blueGrey,
         title: Center(child: Text("I Am SeyyedAnbiaHosseini")),
       ),
       body: Center(
